@@ -1,2 +1,6 @@
 # Checkpoints
 .ipynb_checkpoints
+
+# Large files
+/models/simclr_latest.pth
+/embeddings
